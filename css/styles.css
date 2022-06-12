@@ -40,6 +40,13 @@ h1{
   color: #fff;
 }
 
+h2{
+  font-weight: 700;
+  font-size: 3rem;
+  line-height: 1.5;
+
+}
+
 .down-btn{
   margin: 5% 3% 5% 0;
 }
@@ -76,4 +83,30 @@ p{
   text-align: center;
   font-size: 1.5rem;
   line-height: 40px;
+}
+
+/* Testimonial */
+
+.testimonials{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+.doggo{
+  width: 10%;
+  border-radius: 50%;
+  margin: 20px;
+}
+
+.press{
+   background-color: #ff4c68;
+   text-align: center;
+   padding-bottom: 3%;
+}
+
+.logos{
+  width: 12%;
+  margin: 0 30px;
 }
