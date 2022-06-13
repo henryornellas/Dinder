@@ -88,13 +88,16 @@ p{
 /* Testimonial */
 
 .testimonials{
-  padding: 7% 15%;
   text-align: center;
   background-color: #ff4c68;
   color: #fff;
 }
 
-.doggo{
+.carousel-item{
+  padding: 7% 15%;
+}
+
+.testimonial-image{
   width: 10%;
   border-radius: 50%;
   margin: 20px;
