@@ -26,12 +26,12 @@ body{
 }
 
 .iphone{
-  transform: rotate(25deg);
-  width: 60%;
   display: block;
-  margin: auto;
-  z-index: -1;
+  width: 20%;
+  transform: rotate(25deg);
+  position: absolute;
 }
+
 
 h1{
   font-size: 3.5rem;
@@ -55,6 +55,9 @@ h2{
 
  .features{
    padding: 7% 15%;
+   background-color: white;
+   position: relative;
+   z-index: 1;
  }
 
 h3{
@@ -112,4 +115,15 @@ p{
 .logos{
   width: 12%;
   margin: 0 30px;
+}
+
+/* preços */
+
+.pricing{
+  padding: 7%;
+  text-align: center;
+}
+
+.coluna{
+  padding: 3% 2%;
 }
