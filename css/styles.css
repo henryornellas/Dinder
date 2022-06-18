@@ -123,6 +123,54 @@ p{
   margin: 0 30px;
 }
 
+/* preços */
+
+.pricing{
+  padding: 5%;
+  text-align: center;
+}
+
+.coluna-preço{
+  padding: 3% 2%;
+}
+
+/* cta */
+
+.cta{
+  background-color: #ff4c68;
+  color: white;
+  text-align: center;
+  padding: 5% 10%;
+}
+
+.last-header{
+  font-weight: 900;
+  font-size: 4rem;
+  margin-bottom: 3rem;
+}
+
+.down-btn-2{
+  margin: 0 1rem;
+}
+
+/* footer */
+
+.footer{
+  text-align: center;
+  padding: 3% 8%;
+  font-size: 1rem;
+}
+
+.footer-icon{
+  margin: 1rem;
+}
+
+.last-p{
+  margin-top: 20px;
+}
+
+/* MEDIA QUERY */
+
 @media (max-width: 991px) {
   .title{
     text-align: center;
